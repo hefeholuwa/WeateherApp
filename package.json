@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-live-clock": "^4.0.5",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-weathericons": "^1.0.4"
   },
   "scripts": {
