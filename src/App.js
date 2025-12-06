@@ -578,7 +578,8 @@ function App() {
         return { position, isDay: true, verticalOffset };
     };
 
-    // Get twilight info
+    // Get twilight info (for future twilight display feature)
+    // eslint-disable-next-line no-unused-vars
     const getTwilightInfo = (sunrise, sunset, timezone) => {
         const twilightDuration = 30 * 60; // 30 minutes
         return {
